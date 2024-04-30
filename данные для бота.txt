@@ -1,0 +1,3 @@
+API - d336a5bb399c85686b104a5aa0f4e915
+Ссылка на бота - https://t.me/teleweather_tg_bot
+Токен бота - 6756128598:AAHrS5q0QYfK5isHxRENXuozl4pHAeqAYdw
